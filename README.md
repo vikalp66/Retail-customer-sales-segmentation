@@ -28,3 +28,13 @@ An end-to-end retail business intelligence project executing customer behavioral
 * **Window Functions:** `AVG() OVER()`, `SUM() OVER()`, `LAG() OVER()` with explicit `PARTITION BY` and `ORDER BY`
 * **Date Manipulation:** `DATEDIFF()`, `DATEADD()`, `DATETRUNC()`, `YEAR()`, `GETDATE()`
 * **Business Intelligence:** Microsoft Excel connected via Power Query for automated data refreshes and dashboard KPI reporting.
+
+---
+
+## 📈 Key Insights & Analytical Takeaways
+*(To be populated following dashboard completion and final metric evaluation)*
+
+* **Demographic Breakdown:** Evaluating revenue share and customer acquisition across age cohorts (`Teenagers`, `Young Adults`, `Middle-Aged`, `50+`).
+* **Customer Value Distribution:** Profiling customer concentration across `VIP`, `Regular`, and `New` behavioral tiers.
+* **Product Catalog Concentration:** Analyzing SKU distribution and revenue contribution across cost ranges.
+* **Temporal & Growth Trends:** Identifying seasonal sales peaks and tracking YoY product revenue variance.
